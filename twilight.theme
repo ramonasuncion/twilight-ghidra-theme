@@ -1,0 +1,94 @@
+name = twilight
+lookAndFeel = Flat Dark
+useDarkDefaults = true
+color.cursor.focused = color.fg
+
+font.monospaced = JetBrains Mono-PLAIN-12
+
+color.custom.color1 = #CDA869
+color.custom.color2 = #7587A6
+color.custom.color3 = #9B703F
+color.custom.color4 = #F9EE98
+color.custom.color5 = #5F5A60
+color.custom.color6 = #CF6A4C
+color.custom.color7 = #8F9D6A
+color.custom.color8 = #9B859D
+
+color.custom.clicked = #32261b
+color.custom.selected = #32261b
+color.custom.highlight = #53402d
+
+color.custom.background = #141414
+color.custom.white = #F8F8F8
+
+[color]system.color.bg.view = color.custom.background
+[color]system.color.fg.view = color.custom.white
+
+color.fg.decompiler.comment = color.custom.color5
+color.fg.decompiler.constant = color.custom.color6
+color.fg.decompiler.function.name = color.custom.color3
+color.fg.decompiler.keyword = color.custom.color1
+color.fg.decompiler.type = color.custom.color4
+color.fg.decompiler.variable = color.custom.color2
+color.fg.decompiler.parameter = color.custom.color2
+color.fg.decompiler.global = color.custom.color4
+color.fg.decompiler.string = color.custom.color7
+
+color.fg.listing.bytes = color.custom.color6
+
+color.fg.listing.comment.auto = color.custom.color5
+color.fg.listing.comment.eol = color.custom.color5
+color.fg.listing.comment.plate = color.custom.color5
+color.fg.listing.comment.post = color.custom.color5
+color.fg.listing.comment.pre = color.custom.color5
+color.fg.listing.comment.repeatable = color.custom.color5
+
+color.fg.listing.constant = color.custom.color6
+color.fg.listing.ext.ref.resolved = color.custom.color6
+
+color.fg.listing.function.name = color.custom.color3
+color.fg.listing.function.param.dynamic = color.custom.color3
+color.fg.listing.function.variable = color.custom.color2
+
+color.fg.listing.label.primary = color.custom.color3
+color.fg.listing.label.local = color.custom.color2
+color.fg.listing.label.non.primary = color.custom.white
+
+color.fg.listing.register = color.custom.color2
+
+color.fg.listing.mnemonic = color.custom.color1
+color.fg.listing.mnemonic.override = color.custom.white
+
+color.fg.listing.underline = color.custom.color1
+color.fg.listing.xref = color.custom.color1
+color.fg.listing.xref.read = color.custom.color1
+color.fg.listing.ext.ref.unresolved = color.custom.color8
+
+color.fg.listing.address = color.custom.color8
+
+color.bg.selection = color.custom.selected
+color.bg.undefined = color.custom.selected
+color.bg.highlight = color.custom.highlight
+
+color.bg.header.active = color.custom.color3
+color.bg.header.inactive = color.custom.selected
+
+color.palette.highlight.transparent.yellow = color.custom.clicked
+
+color.bg.filterfield = color.custom.selected
+color.fg.filterfield = color.custom.white
+
+color.fg.interpreterconsole.error = color.custom.color6
+color.fg.consoletextpane = color.custom.white
+
+color.fg.listing.flow.arrow.selected = color.custom.color2
+color.fg.listing.flow.arrow.active = color.custom.color1
+color.fg.listing.flow.arrow.inactive = color.custom.color5
+
+#color.bg.plugin.overview.address.function = color.custom.color6
+#color.bg.plugin.overview.address.instruction = color.custom.color3
+#color.bg.plugin.overview.address.data = color.custom.color2
+#color.bg.plugin.overview.address.undefined = color.custom.color1
+#color.bg.plugin.overview.address.uninitialized = color.custom.white
+#color.bg.plugin.overview.address.external.ref = color.custom.
+
